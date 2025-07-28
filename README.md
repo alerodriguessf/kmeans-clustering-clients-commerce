@@ -1,6 +1,6 @@
 
 
-# **Portfolio Clustering Model (KMeans) for Customer Segmentation**
+# **Portfolio -  Clustering Model (KMeans) for Customer Segmentation**
 
 This repository provides a comprehensive implementation of a customer segmentation analysis using the KMeans clustering algorithm. The project's objective is to explore a transactional dataset, perform advanced preprocessing, and derive meaningful customer clusters based on RFM (Recency, Frequency, Monetary) metrics. This detailed segmentation enables businesses to design targeted marketing campaigns, improve customer retention, and optimize resource allocation.
 
@@ -8,19 +8,19 @@ This repository provides a comprehensive implementation of a customer segmentati
 
 ## **Table of Contents**
 
-1.  [Project Overview](https://www.google.com/search?q=%23project-overview)
-2.  [Setup and Installation](https://www.google.com/search?q=%23setup-and-installation)
-3.  [Dataset Description](https://www.google.com/search?q=%23dataset-description)
-4.  [Methodology and Project Steps](https://www.google.com/search?q=%23methodology-and-project-steps)
-      - [Step 1: Exploratory Data Analysis (EDA)](https://www.google.com/search?q=%23step-1-exploratory-data-analysis-eda)
-      - [Step 2: Data Preprocessing and Feature Engineering](https://www.google.com/search?q=%23step-2-data-preprocessing-and-feature-engineering)
-      - [Step 3: RFM-Based Clustering Analysis](https://www.google.com/search?q=%23step-3-rfm-based-clustering-analysis)
-      - [Step 4: Cluster Profiling and Visualization](https://www.google.com/search?q=%23step-4-cluster-profiling-and-visualization)
-      - [Step 5: Strategic Business Recommendations](https://www.google.com/search?q=%23step-5-strategic-business-recommendations)
-5.  [Technologies Used](https://www.google.com/search?q=%23technologies-used)
-6.  [How to Use](https://www.google.com/search?q=%23how-to-use)
-7.  [Future Improvements](https://www.google.com/search?q=%23future-improvements)
-8.  [Contributors](https://www.google.com/search?q=%23contributors)
+1.  Project Overview
+2.  Setup and Installation
+3.  Dataset Description
+4.  Methodology and Project Steps
+      - Step 1: Exploratory Data Analysis (EDA)
+      - Step 2: Data Preprocessing and Feature Engineering
+      - Step 3: RFM-Based Clustering Analysis
+      - Step 4: Cluster Profiling and Visualization
+      - Step 5: Strategic Business Recommendations
+5.  Technologies Used
+6.  How to Use
+7.  Future Improvements
+8.  Contributors
 
 -----
 
